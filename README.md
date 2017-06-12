@@ -2,7 +2,7 @@
 
 This extension includes email fields in profiles on the contribution page. The standard billing email address field is removed when an email field is found in profile.
 
-Related SE question - https://civicrm.stackexchange.com/questions/16660/how-can-i-prevent-contribution-pages-forcing-the-email-to-be-of-type-billing
+Related SE question - [How can I prevent Contribution Pages forcing the email to be of type Billing](https://civicrm.stackexchange.com/questions/16660/how-can-i-prevent-contribution-pages-forcing-the-email-to-be-of-type-billing)
 
 ## Author
 
